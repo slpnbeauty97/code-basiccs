@@ -1,0 +1,33 @@
+/* This is a CSS comment */
+
+/* Select the body element and apply styles */
+body {
+    background-color: #f0f0f0; /* Set the background color */
+    font-family: Arial, sans-serif; /* Set the font family */
+    color: #333333; /* Set the text color */
+    margin: 0; /* Remove default margins */
+}
+
+/* Select all headings and apply styles */
+h1, h2, h3, h4, h5, h6 {
+    color: #006699; /* Set the text color */
+    font-weight: bold; /* Make the text bold */
+}
+
+/* Select the element with the ID "main" and apply styles */
+#main {
+    width: 80%; /* Set the width to 80% of the parent element */
+    margin: 0 auto; /* Center the element horizontally */
+}
+
+/* Select all anchor elements within a list and apply styles */
+li a {
+    color: #006699; /* Set the text color */
+    text-decoration: none; /* Remove the underline */
+}
+
+/* Select the element with the class "highlight" and apply styles */
+.highlight {
+    background-color: yellow; /* Set the background color */
+    font-weight: bold; /* Make the text bold */
+}
